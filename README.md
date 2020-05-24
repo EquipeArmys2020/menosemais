@@ -1,2 +1,7 @@
 # menosemais
-GitHub Pages
+O projeto menos é Mais, tem por finalidade proporcionar o alimento de forma saudável aos alunos da rede pública de ensino de forma a garantir seu sustento, enquanto o país atravessa esse período de pandemia. 
+Propomos ao governo que mantenha contrato com as empresas licitadas e que fazem o abastecimento dos alimentos nas escolas de rede pública, a criarem uma logística de entrega de cestas básicas e recebimento de doações nas escolas públicas via site, para que cada família do aluno receba os alimentos de acordo com o cardápio nutricional, conforme é feito nas escolas. 
+Os alunos continuariam sendo assistidos no que é imprescindível que é a alimentação e o governo continuaria mantendo as empresa em sua capacidade produtiva. 
+A entrega dos alimentos seriam registradas de forma online e com agendamento de retirada nas escolas públicas do bairro escolhido e na mesma perspectiva seria solicitado um dia e horário para que as famílias dos estudantes pudessem ir receber as doações, dessa forma a se evitar aglomerações no local.
+O projeto menos é Mais significa dizer que com todos fazendo a sua parte nas doações mesmo quem em pequena quantidade, milhares de crianças poderão receber uma alimentação saudável. O projeto contaria com a participação empresas da rede de saúde e de ensino como dos profissionais das escolas participantes, como por exemplo: nutricionistas e educadores físicos, dando todas as dicas virtuais para que a obesidade infantil nesse período seja combatida, mesmo que em casa e as equipes da saúde da família e enfermeiros auxiliariam na triagem das doações e recebimentos dessas famílias.
+https://equipearmys2020.github.io/menosemais/#next 
